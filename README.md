@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Hasan, a software engineer based in Istanbul, Turkey.
+
+I'm enthusiastic about writing clean, reusable, maintainable and high performance code. 
+
+I like to solve problems and learn new things everyday. 
+
+:computer: Currently, I'm working at [Lifemote](https://github.com/lifemote), mainly using Python and AWS technologies to make things work at backend.
+
 
 <!--
 **hty8/hty8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
