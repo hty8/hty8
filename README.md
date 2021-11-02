@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Hasan, a software engineer based in Utrecht, Netherlands.
+I'm Hasan, a software engineer based in Amsterdam, Netherlands.
 
 - :computer: I'm enthusiastic about writing clean, reusable, maintainable and high performance code. 
 
